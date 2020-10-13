@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pjcomm/static/css/main.5f361e03.chunk.css",
+    "main.js": "/pjcomm/static/js/main.532d0eef.chunk.js",
+    "main.js.map": "/pjcomm/static/js/main.532d0eef.chunk.js.map",
+    "runtime-main.js": "/pjcomm/static/js/runtime-main.dd8f3cb9.js",
+    "runtime-main.js.map": "/pjcomm/static/js/runtime-main.dd8f3cb9.js.map",
+    "static/css/2.2a86faee.chunk.css": "/pjcomm/static/css/2.2a86faee.chunk.css",
+    "static/js/2.6173b9ab.chunk.js": "/pjcomm/static/js/2.6173b9ab.chunk.js",
+    "static/js/2.6173b9ab.chunk.js.map": "/pjcomm/static/js/2.6173b9ab.chunk.js.map",
+    "index.html": "/pjcomm/index.html",
+    "precache-manifest.d7173e3d2bf0979c6c8ed9887aa6e280.js": "/pjcomm/precache-manifest.d7173e3d2bf0979c6c8ed9887aa6e280.js",
+    "service-worker.js": "/pjcomm/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/pjcomm/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/pjcomm/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6173b9ab.chunk.js.LICENSE.txt": "/pjcomm/static/js/2.6173b9ab.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pjcomm/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd8f3cb9.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.6173b9ab.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.532d0eef.chunk.js"
+  ]
+}
